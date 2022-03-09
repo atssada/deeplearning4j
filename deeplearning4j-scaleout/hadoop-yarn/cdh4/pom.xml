@@ -29,7 +29,7 @@
 
     <name>cdh4</name>
     <properties>
-        <hadoop.version>2.0.0-cdh4.6.0</hadoop.version>
+        <hadoop.version>3.3.2</hadoop.version>
     </properties>
     <repositories>
         <repository>
