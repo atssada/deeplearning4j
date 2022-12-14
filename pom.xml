@@ -68,7 +68,7 @@
         <dropwizard.version>0.8.0</dropwizard.version>
         <lucene.version>5.3.1</lucene.version>
         <json.version>20131018</json.version>
-        <google.protobuf.version>2.6.1</google.protobuf.version>
+        <google.protobuf.version>3.16.3</google.protobuf.version>
         <failIfNoTests>false</failIfNoTests>
     </properties>
 
