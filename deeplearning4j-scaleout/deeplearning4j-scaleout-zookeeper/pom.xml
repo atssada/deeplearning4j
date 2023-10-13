@@ -25,8 +25,8 @@
 	</parent>
 	<artifactId>deeplearning4j-scaleout-zookeeper</artifactId>
 	<properties>
-		<zookeeper.version>3.5.1-alpha</zookeeper.version>
-		<curator.version>2.4.0</curator.version>
+		<zookeeper.version>3.7.2</zookeeper.version>
+		<curator.version>2.9.0</curator.version>
 	</properties>
 	<dependencies>
 		<dependency>
