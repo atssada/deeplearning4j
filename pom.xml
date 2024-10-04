@@ -55,7 +55,7 @@
         <canova.version>0.0.0.15-SNAPSHOT</canova.version>
         <commonsmath.version>3.4.1</commonsmath.version>
         <commonslang.version>3.3.1</commonslang.version>
-        <commonsio.version>2.4</commonsio.version>
+        <commonsio.version>2.14.0</commonsio.version>
         <args4j.version>2.0.29</args4j.version>
         <slf4j.version>1.7.12</slf4j.version>
         <junit.version>4.12</junit.version>
